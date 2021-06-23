@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6W+a3AjLfMQ9whYsGeDUsSSYMy9sDlzyhuoQ9V4iglPWakvcr6ipBa+dB1Y2h217xh3pPIss02VLnqlLPT/1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CDelo\\Nelnet_projects\\ticketPrice\\ticketPrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CDelo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
